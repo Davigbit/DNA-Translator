@@ -1,1 +1,1 @@
-Translates a DNA sequence into RNA.
+#### Translates a DNA sequence into RNA.
